@@ -1,0 +1,108 @@
+        1 file(s) copied.
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : YC02
+   Primary Dns Suffix  . . . . . . . : hustaff.huji.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : hustaff.huji.local
+                                       huji.local
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : hustaff.huji.local
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I217-LM
+   Physical Address. . . . . . . . . : 40-A8-F0-45-4C-4F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::a46b:1f7d:cc4f:1c98%16(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 132.64.209.2(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : âÖçˇáéâôâ 24 ÉñéÅò 2015 06:55:15
+   Lease Expires . . . . . . . . . . : âÖçˇôåâôâ 19 âêÖÄò 2038 05:14:06
+   Default Gateway . . . . . . . . . : 132.64.209.1
+   DHCP Server . . . . . . . . . . . : 132.64.200.11
+   DHCPv6 IAID . . . . . . . . . . . : 323004656
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1D-74-92-22-40-A8-F0-45-4C-4F
+   DNS Servers . . . . . . . . . . . : 132.64.178.35
+                                       132.64.16.21
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.hustaff.huji.local:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : hustaff.huji.local
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter 6TO4 Adapter:
+
+   Connection-specific DNS Suffix  . : hustaff.huji.local
+   Description . . . . . . . . . . . : Microsoft 6to4 Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2002:8440:d102::8440:d102(Preferred) 
+   Default Gateway . . . . . . . . . : 
+   DNS Servers . . . . . . . . . . . : 132.64.178.35
+                                       132.64.16.21
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : YC03
+   Primary Dns Suffix  . . . . . . . : hustaff.huji.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : hustaff.huji.local
+                                       huji.local
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : hustaff.huji.local
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I217-LM
+   Physical Address. . . . . . . . . : 40-A8-F0-45-4C-5B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8195:6cb2:1eca:e25e%16(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 132.64.209.4(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : âÖçˇáéâôâ 24 ÉñéÅò 2015 06:55:34
+   Lease Expires . . . . . . . . . . : âÖçˇôåâôâ 19 âêÖÄò 2038 05:14:06
+   Default Gateway . . . . . . . . . : 132.64.209.1
+   DHCP Server . . . . . . . . . . . : 132.64.200.11
+   DHCPv6 IAID . . . . . . . . . . . : 323004656
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1D-74-92-23-40-A8-F0-45-4C-5B
+   DNS Servers . . . . . . . . . . . : 132.64.178.35
+                                       132.64.16.21
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.hustaff.huji.local:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : hustaff.huji.local
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter 6TO4 Adapter:
+
+   Connection-specific DNS Suffix  . : hustaff.huji.local
+   Description . . . . . . . . . . . : Microsoft 6to4 Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2002:8440:d104::8440:d104(Preferred) 
+   Default Gateway . . . . . . . . . : 
+   DNS Servers . . . . . . . . . . . : 132.64.178.35
+                                       132.64.16.21
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+\\YC02:
+\\YC02:
+\\YC03:

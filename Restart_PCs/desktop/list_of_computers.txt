@@ -1,0 +1,1 @@
+NO_COMPUTER_WERE_FILLED in list_of_computers.txt!
